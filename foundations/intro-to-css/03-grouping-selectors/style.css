@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+.whtbutton,
+.orgbutton {
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.whtbutton {
+    background-color: white;
+
+}
+
+.orgbutton {
+    background-color: orange;
+    color: green;
+}
